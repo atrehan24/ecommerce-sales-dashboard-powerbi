@@ -27,14 +27,15 @@ With this dashboard, you can easily answer questions like:
 
 ## Dashboard Preview
 
-![Madhav Ecommerce Sales Dashboard](Madhav_Ecommerce_Dashboard_image.PNG)
+![Madhav Ecommerce Sales Dashboard](Madhav_Ecommerce_Dashboard_image.png)
 
 
 ## Project Files
 
-- `Madhav_Ecommerce_Dashboard.pbix` – Power BI report file
-- `Madhav_Ecommerce_Dashboard_image.PNG` – Screenshot of the dashboard
-- *(Optional)* `dataset.csv` – Underlying dataset if you're sharing it
+- `Madhav_Ecommerce_Dashboard.pbix` 
+- `Madhav_Ecommerce_Dashboard_image.png` 
+- `Orders.csv` 
+- `Details.csv`
 
 ## Tools Used
 
