@@ -40,6 +40,7 @@ With this dashboard, you can easily answer questions like:
 ## Tools Used
 
 - **Power BI Desktop**
+- **DAX** for calculated fields and measures
 - **Excel/CSV** as data source
 
 ##  Use Case
